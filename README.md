@@ -19,6 +19,6 @@ erişebilirsiniz.
 
 | Gün | Konu | Eğitmen | Bağlantı | Yayın |
 | --- | --- | --- | --- | ---|
-| 1 | Veri Toplama | [Uğurcan Uzunkaya](https://www.linkedin.com/in/ugurcanuzunkaya/) | Gun_01 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/FccgFfE6BsY?feature=share) |
-| 2 | Veri Temizleme | [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/) | Gun_02 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/c65Mzzs90c8?feature=share) |
-| 3 | Veri Görselleştirme | [Sevgi Nur Kara](https://www.linkedin.com/in/sevginurkara/) | Gun_03 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/8rarVvHsoPk?feature=share) |
+| 1 | Veri Toplama | [Uğurcan Uzunkaya](https://www.linkedin.com/in/ugurcanuzunkaya/) | Gun_1 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/FccgFfE6BsY?feature=share) |
+| 2 | Veri Temizleme | [Selin Şentürk](https://www.linkedin.com/in/sselinsenturk/) | Gun_2 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/c65Mzzs90c8?feature=share) |
+| 3 | Veri Görselleştirme | [Sevgi Nur Kara](https://www.linkedin.com/in/sevginurkara/) | Gun_3 | [![YouTube](https://img.shields.io/badge/Yayın_Kaydı-4A90D9?style=flat&logo=youtube&logoColor=white)](https://youtube.com/live/8rarVvHsoPk?feature=share) |
