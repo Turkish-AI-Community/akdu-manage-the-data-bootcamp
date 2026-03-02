@@ -69,6 +69,23 @@ ruff check . --fix
 ruff format .
 ```
 
+## 🔐 Ortam Değişkenleri (.env)
+
+Bu projedeki bazı scriptler (Tomorrow.io ve Firecrawl gibi) dış API'lar kullanmaktadır. Bu nedenle API anahtarlarınızı içeren bir `.env` dosyası oluşturmanız gerekmektedir.
+
+`notebooks/` dizininde bulunan `.env.example` dosyasını kopyalayarak `.env` adında yeni bir dosya oluşturun:
+
+```bash
+cp notebooks/.env.example notebooks/.env
+```
+
+Ardından oluşturduğunuz `notebooks/.env` dosyasını düzenleyerek kendi API anahtarlarınızı ekleyin:
+
+```env
+TOMORROW_API_KEY="YOUR_API_KEY"
+FIRECRAWL_API_KEY="YOUR_API_KEY"
+```
+
 ## 🏃‍♂️ Scriptleri Çalıştırma
 
 Projeyi 4 ana modüle böldük. Sırasıyla terminalden çalıştırarak test edebilirsiniz:
@@ -89,6 +106,8 @@ Projeyi 4 ana modüle böldük. Sırasıyla terminalden çalıştırarak test ed
 - [Python](https://www.python.org/)
 - [uv](https://astral.sh/uv/)
 - [ruff](https://docs.astral.sh/ruff/)
+- [robots.txt](https://developers.google.com/search/docs/crawling-indexing/robots/intro#:~:text=in%20your%20browser.-,A%20robots.,or%20password%2Dprotect%20the%20page.)
+- [llms.txt](https://llmstxt.org/)
 
 ## Kaggle Veriseti
 

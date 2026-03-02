@@ -16,7 +16,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 def scrape_with_beautifulsoup(url: str) -> None:
     """BeautifulSoup ile statik HTML ayrıştırma."""
     print("--- 1. BEAUTIFULSOUP (Statik HTML Parsing) ---")
-    response = requests.get(url)
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    response = requests.get(url, headers=headers)
     soup = BeautifulSoup(response.text, "html.parser")
 
     # Sayfanın ana başlığını (H1) bulalım

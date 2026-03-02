@@ -57,7 +57,7 @@ def scrape_for_llm(api_key: str, url: str) -> None:
         )
 
         # Markdown içeriğini bir dosyaya kaydetmek için
-        with open("notebooks/scraped_content.md", "w", encoding="utf-8") as f:
+        with open("scraped_content.md", "w", encoding="utf-8") as f:
             f.write(markdown_content)
         print("\n✅ İçerik 'scraped_content.md' dosyasına kaydedildi.")
 
